@@ -28,3 +28,5 @@ bool es_primo(int p) {
     }
     return res;
 }
+
+// gcc -Wall - Wextra -std=c99 -g _ -o _
